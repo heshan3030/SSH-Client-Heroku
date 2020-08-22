@@ -1,0 +1,10 @@
+{
+  "name": "Web Terminal Client",
+  "description": "Web Terminal Client(SSH Client) .",
+  "keywords": ["Web Terminal Client"],
+  "env": {
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
