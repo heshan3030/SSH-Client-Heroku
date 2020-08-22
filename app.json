@@ -1,6 +1,6 @@
 {
-  "name": "Web Terminal Client",
-  "description": "Web Terminal Client(SSH Client) .",
+  "name": "SSH Client GUI Heroku ",
+  "description": "SSH Client GUI Heroku",
   "keywords": ["Web Terminal Client"],
   "env": {
   },
